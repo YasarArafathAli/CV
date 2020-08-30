@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Euphoria+Script&display=swap');
+
 html {
   scroll-behavior: smooth;
 }
@@ -13,7 +15,7 @@ h1 {
   color: #66BFBF;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Euphoria Script', cursive;
 }
 
 h2 {
@@ -111,6 +113,7 @@ ul#nav li a {
 
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
